@@ -1,0 +1,9 @@
+[package]
+name = "grep"
+version = "0.9.0"
+authors = ["Chaitanya Lala <Chaitanya.Lala@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+queues = "1.0.2"
+colored = "2"
